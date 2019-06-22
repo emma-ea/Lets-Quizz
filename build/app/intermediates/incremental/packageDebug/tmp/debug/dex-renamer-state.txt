@@ -1,0 +1,4 @@
+#Sat Jun 22 20:10:16 GMT 2019
+base.0=/home/rootedge/Documents/flutter-tutorials/quiz_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
