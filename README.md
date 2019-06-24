@@ -4,7 +4,7 @@ Flutter project. Let's Quizz
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project was built from a sample tutorial on flutter for beginners. 
 
 A few resources to get you started if this is your first Flutter project:
 
